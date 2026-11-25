@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "dev.emad.xraylite.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "BlockRenderManagerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
